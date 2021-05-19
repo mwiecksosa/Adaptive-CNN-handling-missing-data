@@ -1,4 +1,4 @@
-# Classifying Ireggularly Sampled Time-Series using a Convolutional Neural Network with Adaptive Pooling
+# Classifying Irregularly Sampled Time-Series using a Convolutional Neural Network with Adaptive Pooling
 Big Data Summer Institute at University of Michigan, Biostatistics
 
 This project is a fruit of collaboration of three undergraduate students: Yujuan Fu, Michael Wieck-Sosa and Diego A. Moreno-Galván.
