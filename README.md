@@ -3,7 +3,7 @@
 
 This project is the fruit of hard work by three undergraduate students: Yujuan Fu, Michael Wieck-Sosa, and Diego A. Moreno-Galván. 
 
-In this project, we created a novel convolutional neural network classifier architecture that takes advantage of irregular time-series and uses adaptive pooling layers. This CNN architecture was developed to use an ICU medical patient's vital signals and classify whether or not they would disease within the next 48 hours. 
+In this project, we created a novel one-dimensional convolutional neural network classifier architecture in PyTorch that takes advantage of irregular time-series and uses adaptive pooling layers. This CNN architecture was developed to use an ICU medical patient's vital signals and classify whether or not they would disease within the next 48 hours. 
 
 See the poster and presentation for information about the project.
 
