@@ -7,7 +7,7 @@ In this project, we created a novel one-dimensional convolutional neural network
 
 See the poster and presentation for information about the project in this GitHub. 
 
-Also, see the 2019 BDSI Wiki page: http://bigdatasummerinst.sph.umich.edu/wiki2019/index.php/Main_Page
+2019 BDSI Wiki page: http://bigdatasummerinst.sph.umich.edu/wiki2019/index.php/Main_Page
 
 # Acknowledgements
 We would like to express our appreciation to Professor Jenna Wiens for her patience, guidance, and constructive suggestions during the development of our project and final presentation. We would also like to express our gratitude to Shengpu Tang, our graduate student instructor, for all of his help and instruction. 
